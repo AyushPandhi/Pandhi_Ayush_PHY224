@@ -16,7 +16,7 @@ def f(x, a, b):
 voltage1 = np.loadtxt('resistor data.txt', skiprows=1, usecols=(0,))
 current1 = (1/1000)*(np.loadtxt('resistor data.txt', skiprows=1, usecols=(1,)))
 
-#Loading the potentiometer
+#Loading the potentiometer data
 voltage2 = np.loadtxt('potentiometer data.txt', skiprows=1, usecols=(0,))
 current2 = (1/1000)*(np.loadtxt('potentiometer data.txt', skiprows=1, usecols=(1,)))
 
