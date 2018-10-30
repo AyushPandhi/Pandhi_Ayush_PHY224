@@ -1,0 +1,9 @@
+DC Power Supply Option 2, 6.41 open
+Voltage (V)	Current (mA)
+6.36	19.1
+6.38	9.1
+6.39	7.66
+6.41	0.760
+6.41	0.190
+6.41	0.077
+6.41	0.006
