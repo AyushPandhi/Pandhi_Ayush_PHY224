@@ -1,8 +1,6 @@
-
-# coding: utf-8
-
-# In[19]:
-
+#The Output Resistance of a Power Supply
+#Author: Ayush Pandhi (1003227457)
+#Date: 10/30/2018
 
 #Importing required modules
 import numpy as np
