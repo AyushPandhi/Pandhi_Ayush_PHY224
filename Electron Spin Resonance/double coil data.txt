@@ -1,5 +1,5 @@
 Double-coil Data
-Current (A)	Frequency (kHz)	
+Current (A)	Frequency (MHz)	
 0.420	33.254
 0.380	31.018
 0.356	29.986
