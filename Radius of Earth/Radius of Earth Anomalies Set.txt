@@ -1,0 +1,6 @@
+Radius of the Earth Anomalies
+Floor	Grav Value (mgal)
+14	0.625
+-1	0.798
+14	0.624
+-1	0.786

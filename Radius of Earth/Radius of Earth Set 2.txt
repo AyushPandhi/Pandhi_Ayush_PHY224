@@ -1,0 +1,13 @@
+Radius of the Earth Data Set 2 (Tuesday)
+Floor	Grav Value (mgal)
+3	0.755
+4	0.743
+5	0.732
+6	0.719
+7	0.707
+8	0.695
+9	0.685
+10	0.673
+11	0.661
+12	0.649
+13	0.637

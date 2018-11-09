@@ -1,0 +1,8 @@
+Radius of the Earth Floor 3 Reference
+Floor	Grav Value (mgal)
+3	0.754
+3	0.756
+3	0.755
+3	0.754
+3	0.750
+3	0.753
