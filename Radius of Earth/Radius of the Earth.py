@@ -1,9 +1,3 @@
-
-# coding: utf-8
-
-# In[ ]:
-
-
 #Radius of the Earth
 #Author: Ayush Pandhi (1003227457)
 #Date: 11/12/2018
@@ -61,6 +55,7 @@ print('Chi squared for linear regression: ', chi_sq)
 r = 2*(np.mean(g))/p_opt_1[0]
 r = 3.95*r/1000
 print('Estimated Radius in km: ', r)
+print('Error in Radius result: ', r*((p_cov_1[0,0]**2/p_opt_1[0])**2 + (np.max(g_error)/np.mean(g))**2)**0.5)
 
 #Using measurements from the basement and 14th floor
 mgals_anom = (1000)*(0.10023)*(np.loadtxt('Radius of Earth Anomalies Set.txt', skiprows=2, usecols=(1,)))
@@ -107,4 +102,4 @@ print('Chi squared for linear regression: ', chi_sq)
 r = 2*(np.mean(g_anom))/p_opt_1[0]
 r = 3.95*r/1000
 print('Estimated Radius in km: ', r)
-
+print('Error in Radius result: ', r*((p_cov_1[0,0]**2/p_opt_1[0])**2 + (np.max(g_error)/np.mean(g))**2)**0.5)
