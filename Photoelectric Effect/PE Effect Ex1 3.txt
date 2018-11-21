@@ -1,0 +1,10 @@
+Photoelectric Effect - Exercise 1 (Nov 15)
+Colour		Vstop
+390		1.478
+455		1.264
+505		0.946
+535		0.818
+590		0.692
+615		0.515
+640		0.476
+935		0.000
