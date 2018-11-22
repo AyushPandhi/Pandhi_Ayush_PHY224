@@ -1,9 +1,3 @@
-
-# coding: utf-8
-
-# In[ ]:
-
-
 #Photoelectric Effect
 #Author: Ayush Pandhi (1003227457)
 #Date: November 22, 2018
@@ -112,4 +106,3 @@ plt.ylabel('Photocurrent')
 plt.errorbar(intensitylvl, photocurrent, xerr=0, yerr=i_error, linestyle='none', ecolor='g', label='Error', capsize=2)
 plt.legend(loc='lower right')
 plt.show()
-
