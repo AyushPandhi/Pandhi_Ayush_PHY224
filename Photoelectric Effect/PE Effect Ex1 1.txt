@@ -1,5 +1,5 @@
 Photoelectric effect - Exercise 1 (Nov 13)
-Wavelength	Vstop
+Wavelength (nm)	Vstop (volts)
 390		1.462
 455		1.174
 505		0.932

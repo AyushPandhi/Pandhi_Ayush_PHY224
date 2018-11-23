@@ -1,6 +1,6 @@
 Photoelectric Effect - Exercise 2 (Nov 15)
-Intensitylvl	Photocurrent	Vstop
-1		4.83		0.971
-2		5.08		0.971
-3		5.54		0.971
-4		6.28		0.971
+Intensitylvl	Photocurrent (amps)	Vstop (volts)
+1		4.83			0.971
+2		5.08			0.971
+3		5.54			0.971
+4		6.28			0.971

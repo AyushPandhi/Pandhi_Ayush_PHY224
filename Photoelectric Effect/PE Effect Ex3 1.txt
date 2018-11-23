@@ -1,5 +1,5 @@
 Photoelectric Effect - Exercise 3 (Nov 13)
-Freq	Fall Time (microsec)	1/e time
-0.501	310			150
-0.979	270 			150
-1.472	230			120
+Freq (MHz)	Fall Time (microsec)	1/e time (microsec)
+0.501		310			150
+0.979		270 			150
+1.472		230			120

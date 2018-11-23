@@ -49,15 +49,18 @@ plt.show()
 
 #Outputting Planck's Constant h
 h = p_opt_1[0]*(1.6*10**(-19))
-print('Estimated Plancks Constant: ', h)
+h_error = p_cov_1[0,0]*(1.6*10**(-19))
+print('Estimated Plancks Constant: ', h, '+/-', h_error)
 
 #Outputting the Work Function
 wf = -p_opt_1[1]*(1.6*10**(-19))
-print('Estimated Work Function: ', wf)
+wf_error = p_cov_1[1,1]*(1.6*10**(-19))
+print('Estimated Work Function: ', wf, '+/-', wf_error)
 
 #Outputting the cut-off frequency
 f0 = -(1.6*10**(-19))*p_opt_1[1]/h
-print('Estimated Cut-off Frequency: ', f0)
+f0_error = p_cov_1[1,1]*(1.6*10**(-19))/h
+print('Estimated Cut-off Frequency: ', f0, '+/-', f0_error)
 
 #Estimated errors from equipment
 v_error2 = np.empty(len(vstop2))
