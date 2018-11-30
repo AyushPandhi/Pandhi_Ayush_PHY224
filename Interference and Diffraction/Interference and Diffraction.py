@@ -1,9 +1,3 @@
-
-# coding: utf-8
-
-# In[ ]:
-
-
 #Interference and Diffraction
 #Author: Ayush Pandhi (1003227457)
 #Date: November 29, 2018
@@ -448,4 +442,3 @@ plt.show()
 #Calculating a/wavelength ratio for the single slit experiments
 print('Experimental a/lambda: ', np.mean(a_computed)/wavelength, np.mean(a_computed2)/wavelength, np.mean(a_computed3)/wavelength)
 print('Expected a/lambda: ', (4.0*(10**-5))/wavelength, (8.0*(10**-5))/wavelength, (16.0*(10**-5))/wavelength)
-
