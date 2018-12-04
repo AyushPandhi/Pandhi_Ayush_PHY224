@@ -1,0 +1,9 @@
+Electron Charge to Mass Ratio - Current vs Diameter (R = 15.0cm)
+Current		Diameter
+1.194		9.3
+1.514		7.7
+1.818		6.8
+2.065		6.0
+1.066		9.9
+0.883		11.0
+0.708		11.8
